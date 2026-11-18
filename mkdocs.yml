@@ -1,0 +1,17 @@
+site_name: AI Birthday Video Generator Guides
+site_url: https://aibirthdayvideogenerator.readthedocs.io/
+repo_url: https://github.com/hanshs474/ai-birthday-video-generator-guides
+site_description: AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window.
+theme: readthedocs
+nav:
+  - Overview: index.md
+  - Scenes:
+      - "AI Birthday Video Generator": scenes/ai-birthday-video-generator.md
+      - "Funny Birthday Video Maker": scenes/funny-birthday-video-maker.md
+      - "Happy Birthday AI": scenes/happy-birthday-ai.md
+      - "Happy Birthday Best Friend Video": scenes/happy-birthday-best-friend-video.md
+      - "Happy Birthday Cat Video": scenes/happy-birthday-cat-video.md
+      - "Happy Birthday Dad Video": scenes/happy-birthday-dad-video.md
+      - "Happy Birthday Dog Video": scenes/happy-birthday-dog-video.md
+      - "Happy Birthday Grandma Video": scenes/happy-birthday-grandma-video.md
+      - "Happy Birthday Mom Video": scenes/happy-birthday-mom-video.md
