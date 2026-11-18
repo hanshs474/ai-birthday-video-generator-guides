@@ -110,7 +110,7 @@ const yml = [
   'site_name: AI Birthday Video Generator Guides',
   'site_url: https://aibirthdayvideogenerator.readthedocs.io/',
   'repo_url: https://github.com/hanshs474/ai-birthday-video-generator-guides',
-  `site_description: ${IDENTITY}`,
+  `site_description: "${IDENTITY.replace(/"/g, '\\"')}"`,
   'theme: readthedocs',
   'nav:',
   '  - Overview: index.md',

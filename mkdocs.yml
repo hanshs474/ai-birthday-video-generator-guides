@@ -1,7 +1,7 @@
 site_name: AI Birthday Video Generator Guides
 site_url: https://aibirthdayvideogenerator.readthedocs.io/
 repo_url: https://github.com/hanshs474/ai-birthday-video-generator-guides
-site_description: AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window.
+site_description: "AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window."
 theme: readthedocs
 nav:
   - Overview: index.md
