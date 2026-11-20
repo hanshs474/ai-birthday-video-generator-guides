@@ -5,6 +5,7 @@ site_description: "AI birthday video generator from a single photo: they pop cha
 theme: readthedocs
 nav:
   - Overview: index.md
+  - API & SDKs: api.md
   - Scenes:
       - "AI Birthday Video Generator": scenes/ai-birthday-video-generator.md
       - "Funny Birthday Video Maker": scenes/funny-birthday-video-maker.md
